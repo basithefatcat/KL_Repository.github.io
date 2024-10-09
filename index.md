@@ -12,7 +12,7 @@ layout: default
 <dd>Linkevin2833@gmail.com</dd>
 </dl>
 
-[Linkedin](./linkedin.com/in/kevin-lin-22613b214/).
+[Linkedin](./linkedin.com/in/kevin-lin-22613b214/)
 
 
 # Strengths
