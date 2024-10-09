@@ -2,4 +2,4 @@ title: Kevin Lin
 description: Statement Outline
 show_downloads: true
 google_analytics:
-theme: gem install jekyll-theme-simplex
+theme: jekyll-theme-caymon
