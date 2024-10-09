@@ -16,12 +16,13 @@ layout: default
 
 
 # Strengths
-
+* * *
 *  Strong Communication and Leadership – As an E-Sport Team Captain, I have led and coordinated teams,     showing clear and effective communication in strategic planning.
 *  Technical Troubleshooting and Networking Skills – I have experience as a Networking Intern at UNC Greensboro highlights your ability to troubleshoot and configure network systems effectively.
 *  Analytical Thinking – worked with analyzing gameplay replays to improve performance, combined with technical skills in data organization and network troubleshooting, shows strong problem-solving abilities.
 
 # Values
+* * *
 *  Commitment to Continuous Improvement – focus on setting goals for team improvement and personal development shows a drive for progress and learning.
 *  Ensuring Organizational Efficiency – By streamlining data organization and resolving technical issues swiftly,with value for efficiency and operational effectiveness.
 
