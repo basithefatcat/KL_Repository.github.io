@@ -27,4 +27,5 @@ layout: default
 *  Ensuring Organizational Efficiency – By streamlining data organization and resolving technical issues swiftly,with value for efficiency and operational effectiveness.
 
 # Statement
+* * *
 As a cybersecurity student with a background in technical support and team leadership, I am passionate about helping organizations maintain secure, efficient networks. My strengths in communication, analytical thinking, and troubleshooting, combined with a commitment to continuous improvement, enable me to effectively identify and solve complex security issues. I am driven to use my skills to support the security and operational goals of forward-thinking organizations.
