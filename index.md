@@ -115,17 +115,6 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Kevin Lin</dd>
-<dt>Born</dt>
-<dd>May 05, 2001</dd>
-<dt>Birthplace</dt>
-<dd>United States</dd>
-<dt>Email</dt>
-<dd>Linkevin2833@gmail.com</dd>
-</dl>
-
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
