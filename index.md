@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Strengths
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*  Strong Communication and Leadership – As an E-Sport Team Captain, I have led and coordinated teams,     showing clear and effective communication in strategic planning.
+*  Technical Troubleshooting and Networking Skills – I have experience as a Networking Intern at UNC Greensboro highlights your ability to troubleshoot and configure network systems effectively.
+*  Analytical Thinking – worked with analyzing gameplay replays to improve performance, combined with technical skills in data organization and network troubleshooting, shows strong problem-solving abilities.
 
 ## Header 2
 
