@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<dl>
+<dt>Name</dt>
+<dd>Kevin Lin</dd>
+<dt>Born</dt>
+<dd>May 05, 2001</dd>
+<dt>Birthplace</dt>
+<dd>United States</dd>
+<dt>Email</dt>
+<dd>Linkevin2833@gmail.com</dd>
+</dl>
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Strengths
 
@@ -111,13 +116,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Kevin Lin</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>May 05, 2001</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>United States</dd>
+<dt>Email</dt>
+<dd>Linkevin2833@gmail.com</dd>
 </dl>
 
 ```
